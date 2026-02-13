@@ -17,10 +17,17 @@ Currently mastering infrastructure, CI/CD pipelines, and cloud-ready application
 
 <hr/>
 
-<h3 align="left">🏆 GitHub Achievements</h3>
+<hr/>
+
+<h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ronit0000&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
+Consistent Contributor • Clean Repository Structure • 
+Production-Oriented Projects • Full Stack Implementations
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ronit0000&theme=transparent&hide_border=true" />
 </p>
 
 <hr/>
