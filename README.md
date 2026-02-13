@@ -94,16 +94,18 @@ Currently mastering infrastructure, CI/CD pipelines, and cloud-ready application
 
 <hr/>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ronit0000&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronit0000&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit0000&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit0000&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ronit0000&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ronit0000&theme=transparent&hide_border=true" />
 </p>
+
+
