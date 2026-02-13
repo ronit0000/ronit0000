@@ -66,12 +66,13 @@ Structured Repository Management
 
 <h4>🚀 DevOps & Cloud</h4>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
+<img src="https://skillicons.dev/icons?i=jenkins" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws" height="40"/>
 </p>
+
 
 <h4>🗄️ Databases</h4>
 <p>
